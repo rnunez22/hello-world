@@ -1,4 +1,4 @@
 sample.txt
 //this is a comment
 //this is another comment
-//testing for the third comment
+//this is the 3rd comment
